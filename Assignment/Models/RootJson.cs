@@ -1,7 +1,7 @@
 ﻿
 namespace Assignment.Models
 {
-    public class Root
+    public class MinimaModel
     {
         public int userId { get; set; }
         public int id { get; set; }
